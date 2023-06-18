@@ -1,8 +1,7 @@
 ### Olá
-![Kelly GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelly-Araujo&show_icons=true&theme=tokyonight)
-![Kelly Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly-Araujo&hide_progress=true)
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  
+<div align="center">
+  <a href="https://github.com/Kelly-Araujo">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kelly-Araujo&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly-Araujo&theme=tokyonight&hide_border=false&&layout=compact"/>
+  </a>
 </div>
