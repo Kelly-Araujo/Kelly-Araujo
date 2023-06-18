@@ -5,3 +5,4 @@
 <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   
 </div>
+![Kelly Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly-Araujo&hide_progress=true)
