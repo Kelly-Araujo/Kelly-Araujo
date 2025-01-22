@@ -1,5 +1,5 @@
 ### Olá, sou a Kelly Araújo
-![Snake animation](https://github.com/Kelly-Araujo/Kelly-Araujo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Kelly-Araujo/Kelly-Araujo/blob/output/github-contribution-grid-snake.gif)
 Uma Desenvolvedora Web em formação!
 
 <div align="center">
