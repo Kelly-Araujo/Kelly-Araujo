@@ -3,6 +3,11 @@
 **`Desenvolvedora FullStack`**
 Me chamo Kelly Aráujo, tenho 18 anos e sou natural de Maracanaú- Ce. Concluí o ensino médio na EEEP PROFESSORA LUIZA DE TEODORO VIEIRA, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniGrande.
 
+---
+
+### Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
 <a href="https://github.com/Kelly-Araujo?tab=stars">
         <img 
             alt="Total de estrelas" 
@@ -11,9 +16,7 @@ Me chamo Kelly Aráujo, tenho 18 anos e sou natural de Maracanaú- Ce. Concluí 
         />
     </a>
 
-### Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          
+
 <div align="center">
 
   <a href="https://github.com/Kelly-Araujo">
