@@ -36,7 +36,7 @@ Me chamo Kelly Aráujo, tenho 18 anos e sou natural de Maracanaú- Ce. Concluí 
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="" 
 />
 <img 
     align="left" 
@@ -44,7 +44,7 @@ Me chamo Kelly Aráujo, tenho 18 anos e sou natural de Maracanaú- Ce. Concluí 
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="" 
 />
 <img 
     align="left" 
@@ -52,7 +52,7 @@ Me chamo Kelly Aráujo, tenho 18 anos e sou natural de Maracanaú- Ce. Concluí 
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="" 
 />
 <img 
     align="left" 
@@ -60,7 +60,7 @@ Me chamo Kelly Aráujo, tenho 18 anos e sou natural de Maracanaú- Ce. Concluí 
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="" 
 />
 <img 
     align="left" 
@@ -68,7 +68,7 @@ Me chamo Kelly Aráujo, tenho 18 anos e sou natural de Maracanaú- Ce. Concluí 
     title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="" 
 />
 <img 
     align="left" 
@@ -92,7 +92,7 @@ Me chamo Kelly Aráujo, tenho 18 anos e sou natural de Maracanaú- Ce. Concluí 
     title="Laravel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="" 
 />
 <img 
     align="left" 
@@ -100,7 +100,7 @@ Me chamo Kelly Aráujo, tenho 18 anos e sou natural de Maracanaú- Ce. Concluí 
     title="JQuery"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="" 
 />
 <img 
     align="left" 
