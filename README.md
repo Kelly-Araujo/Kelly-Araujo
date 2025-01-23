@@ -68,6 +68,7 @@ Me chamo Kelly Aráujo, tenho 18 anos e sou natural de Maracanaú- Ce. Concluí 
 <br/>
 <br/>
 
+### 📊 Estatísticas
 
 <div align="center">
 
