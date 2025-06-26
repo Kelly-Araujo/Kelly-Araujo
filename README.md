@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Kelly Araújo
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora `**
 Me chamo Kelly Aráujo, tenho 18 anos e sou natural de Maracanaú- Ce. Concluí o ensino médio na EEEP PROFESSORA LUIZA DE TEODORO VIEIRA, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniGrande.
 
 ---
